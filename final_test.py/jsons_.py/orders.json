@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "item": "Laptop",
+        "amount": 85000
+    },
+    {
+        "id": 2,
+        "item": "Keyboard",
+        "amount": 3500
+    },
+    {
+        "id": 3,
+        "item": "Mouse",
+        "amount": 1800
+    },
+    {
+        "id": 4,
+        "item": "Headphones",
+        "amount": 5500
+    },
+    {
+        "id": 5,
+        "item": "USB Cable",
+        "amount": 1200
+    },
+    {
+        "id": 6,
+        "item": "Phone",
+        "amount": 120000
+    }
+]

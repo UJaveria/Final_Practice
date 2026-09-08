@@ -1,0 +1,14 @@
+{
+    "IT": {
+        "Ali": ["Python", "SQL", "Git"],
+        "Sara": ["Python", "Java", "Git"]
+    },
+    "HR": {
+        "Ahmed": ["Excel", "Communication"],
+        "Ayesha": ["Excel", "Python", "Communication"]
+    },
+    "Marketing": {
+        "Hamza": ["Communication", "SEO"],
+        "Zara": ["SEO", "Excel"]
+    }
+}
